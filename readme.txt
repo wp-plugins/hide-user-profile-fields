@@ -1,4 +1,4 @@
-=== hide-user-fields ===
+=== Hide User Profile Fields ===
 Contributors: 
 Donate link: http://www.mestredostutoriais.com.br/
 Tags: hide, user profile, fields, aim, yahoo im
@@ -14,7 +14,7 @@ A simple plugin with no-backend interface, to clean up some dummy fields from us
 
 == Description ==
 
-Clean up some dummy fields from user profiles edition and creation pages, focused on corporate purposes. The following fields are removed right after this plugin activation: Colors Profile, Keyboard Shortcuts, Toolbar, AIM, Jabber, Yahoo IM, Website URL, Biography Description and User Role (every new user is created as Subscriber)
+A simple plugin with no-backend interface, to clean up some dummy fields from user profiles edition and creation pages, focused on corporate purposes. The following fields are removed right after this plugin activation: Colors Profile, Keyboard Shortcuts, Toolbar, AIM, Jabber, Yahoo IM, Website URL, Biography Description and User Role (every new user is created as Subscriber)
 Some contents was inspired on teachingyou.net
 
 == Installation ==

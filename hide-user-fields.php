@@ -1,6 +1,6 @@
 <?php 
 /**
- * @package hide-user-fields
+ * @package Hide User Profile Fields
  * @author Gustavo Brandao Guerra
  * @version 1.2
  */
@@ -9,7 +9,7 @@ Plugin Name: Hide User Profile Fields
 Plugin URI: 
 Description: Clean up some dummy fields from user profiles edition and creation pages, focused on corporate purposes. The following fields are removed right after this plugin activation: Colors Profile, Keyboard Shortcuts, Toolbar, AIM, Jabber, Yahoo IM, Website URL, Biography Description and User Role (every new user is created as Subscriber)
 Author: Gustavo Brandao Guerra
-Version: 1.0
+Version: 1.2
 Author URI: http://www.mestredostutoriais.com.br/
 */
 
